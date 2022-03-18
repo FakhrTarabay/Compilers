@@ -1,8 +1,6 @@
 package csen1002.main.task1;
 /**
  * @Name Fakhreldin Hussein Soliman Tarabay
- * @ID 43-11215
- * @LabNumber T19
  */
 public class DFA {
 	public String[] states;
