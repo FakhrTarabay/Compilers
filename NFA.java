@@ -3,8 +3,6 @@ package csen1002.main.task2;
 import java.util.ArrayList;
 /**
  * @name Fakhreldin Hussein Soliman
- * @id 43-11215
- * @labNumber 19
  */
 public class NFA{
 	public String[] zero;
