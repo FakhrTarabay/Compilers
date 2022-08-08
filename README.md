@@ -18,3 +18,9 @@ FFCFG implements the algorithms computing the functions First and Follow.
 </br>
 LL1CFG implements an LL(1) parser using pushdown automata (PDA) and
 predictive parsing tables.
+</br>
+</br>
+Task 8 implements a simple lexical analyzer using ANTLR (www.antlr.org).
+</br>
+</br>
+Task 9 uses ANTLR (www.antlr.org) to implement an SDD.
